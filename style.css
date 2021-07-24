@@ -1,0 +1,51 @@
+nav {
+    height: 50px;
+    background-color: lightgrey;
+  }
+  
+  /* target the class of inline-block below */
+  .inline-block {
+    display: inline-block;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 14.5%;
+    background-color:grey;
+    text-align: center;
+    color: white;
+    font-size: 11pt;
+  }
+  /* target the class of .left below */
+  .left {
+  height: 500px;
+  float: left;
+  background-color: blue;
+  width: 29%;
+  }
+  /* target the class of .right below */
+  .right {
+  height: 500px;
+  float: left;
+  background-color:teal;
+  width: 70%;
+  }
+  /* target the class of .topleft below */
+  .topleft {
+    height:150px;
+    background-color:orange;
+  }
+  /* target the class of .bottomleft below */
+  .bottomleft {
+    height:350px;
+    background-color:orangered;
+  }
+  /* target the profile image*/
+  .profilepic {
+      display: center;
+      height: 75px;
+      width: 75px;
+  }
+  /* target the profile section*/
+  .profile {
+      text-align: center;
+      padding-top: 20px;
+  }
